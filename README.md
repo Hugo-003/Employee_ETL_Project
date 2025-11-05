@@ -25,21 +25,6 @@ The pipeline is interactive, allowing the user to choose which operations to run
 
 ---
 
-## 🗂️ Main Project Structure
-
-project_root/
-│
-├─ data/ # Input CSV and resulting processed CSVs 
-├─ src/
-│ ├─ config/ # Configuration module
-│ ├─ empleados/ # Classes to handle employee data and company-specific subclasses
-│ └─ logger/ # Custom logger module
-├─ data_schema/ # Schema definitions for data validation
-├─ main.py # Main script with interactive menu
-└─ README.md
-
----
-
 ## 🧑‍💻 How It Works
 
 main.py is the entry point. It initializes configuration and logging, then runs an interactive menu allowing the user to perform ETL steps and analyses. When executed, it allows the user to:
