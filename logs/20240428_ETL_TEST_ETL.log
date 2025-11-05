@@ -1,0 +1,27 @@
+[2024-04-28 23:11:02] || INFO || ************************************************************
+[2024-04-28 23:11:02] || INFO ||                   INITIATING ETL_TEST ETL
+[2024-04-28 23:11:02] || INFO ||                     28/04/2024 23:11:02
+[2024-04-28 23:11:02] || INFO || ************************************************************
+[2024-04-28 23:11:02] || INFO || 1) Cargar CSV e imprimir 5 lineas
+[2024-04-28 23:11:02] || INFO || 2) Rellenar columnas full_time 
+[2024-04-28 23:11:02] || INFO || 3) Asignar bonus adicional
+[2024-04-28 23:11:02] || INFO || 4) Calcular aumento de salario
+[2024-04-28 23:11:02] || INFO || 5) Crear clave compuesta
+[2024-04-28 23:11:02] || INFO || 6) Clasificación de la edad por rangos
+[2024-04-28 23:11:02] || INFO || 7) Diferencia entre la edad y la edad promedio
+[2024-04-28 23:11:02] || INFO || 8) Guardar todas las operaciones en un solo DataFrame
+[2024-04-28 23:11:02] || INFO || 9) Salir
+[2024-04-28 23:14:29] || INFO || Imprimir primeros registros
+[2024-04-28 23:14:29] || INFO || Imprimir primeros registros
+[2024-04-28 23:14:29] || INFO || Imprimir primeros registros
+[2024-04-28 23:14:29] || INFO || Imprimir primeros registros
+[2024-04-28 23:14:29] || INFO || 1) Cargar CSV e imprimir 5 lineas
+[2024-04-28 23:14:29] || INFO || 2) Rellenar columnas full_time 
+[2024-04-28 23:14:29] || INFO || 3) Asignar bonus adicional
+[2024-04-28 23:14:29] || INFO || 4) Calcular aumento de salario
+[2024-04-28 23:14:29] || INFO || 5) Crear clave compuesta
+[2024-04-28 23:14:29] || INFO || 6) Clasificación de la edad por rangos
+[2024-04-28 23:14:29] || INFO || 7) Diferencia entre la edad y la edad promedio
+[2024-04-28 23:14:29] || INFO || 8) Guardar todas las operaciones en un solo DataFrame
+[2024-04-28 23:14:29] || INFO || 9) Salir
+[2024-04-28 23:16:49] || ERROR || Error

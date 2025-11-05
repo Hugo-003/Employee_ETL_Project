@@ -1,0 +1,80 @@
+[2025-11-05 18:03:09] || INFO || ************************************************************
+[2025-11-05 18:03:09] || INFO ||                   INITIATING ETL_TEST ETL
+[2025-11-05 18:03:09] || INFO ||                     05/11/2025 18:03:09
+[2025-11-05 18:03:09] || INFO || ************************************************************
+[2025-11-05 18:03:09] || INFO || 1) Cargar CSV e imprimir 5 lineas (obligatorio hacer primero, para cargar datos)
+[2025-11-05 18:03:09] || INFO || 2) Rellenar columnas full_time 
+[2025-11-05 18:03:09] || INFO || 3) Asignar bonus adicional
+[2025-11-05 18:03:09] || INFO || 4) Calcular aumento de salario
+[2025-11-05 18:03:09] || INFO || 5) Crear clave compuesta
+[2025-11-05 18:03:09] || INFO || 6) Clasificación de la edad por rangos
+[2025-11-05 18:03:09] || INFO || 7) Diferencia entre la edad y la edad promedio
+[2025-11-05 18:03:09] || INFO || 8) Guardar todas las operaciones en un solo DataFrame
+[2025-11-05 18:03:09] || INFO || 9) Salir
+[2025-11-05 18:03:14] || INFO || Imprimir primeros registros
+[2025-11-05 18:03:14] || INFO || Imprimir primeros registros
+[2025-11-05 18:03:14] || INFO || Imprimir primeros registros
+[2025-11-05 18:03:14] || INFO || Imprimir primeros registros
+[2025-11-05 18:03:14] || INFO || 1) Cargar CSV e imprimir 5 lineas (obligatorio hacer primero, para cargar datos)
+[2025-11-05 18:03:14] || INFO || 2) Rellenar columnas full_time 
+[2025-11-05 18:03:14] || INFO || 3) Asignar bonus adicional
+[2025-11-05 18:03:14] || INFO || 4) Calcular aumento de salario
+[2025-11-05 18:03:14] || INFO || 5) Crear clave compuesta
+[2025-11-05 18:03:14] || INFO || 6) Clasificación de la edad por rangos
+[2025-11-05 18:03:14] || INFO || 7) Diferencia entre la edad y la edad promedio
+[2025-11-05 18:03:14] || INFO || 8) Guardar todas las operaciones en un solo DataFrame
+[2025-11-05 18:03:14] || INFO || 9) Salir
+[2025-11-05 18:03:18] || INFO || 1) Cargar CSV e imprimir 5 lineas (obligatorio hacer primero, para cargar datos)
+[2025-11-05 18:03:18] || INFO || 2) Rellenar columnas full_time 
+[2025-11-05 18:03:18] || INFO || 3) Asignar bonus adicional
+[2025-11-05 18:03:18] || INFO || 4) Calcular aumento de salario
+[2025-11-05 18:03:18] || INFO || 5) Crear clave compuesta
+[2025-11-05 18:03:18] || INFO || 6) Clasificación de la edad por rangos
+[2025-11-05 18:03:18] || INFO || 7) Diferencia entre la edad y la edad promedio
+[2025-11-05 18:03:18] || INFO || 8) Guardar todas las operaciones en un solo DataFrame
+[2025-11-05 18:03:18] || INFO || 9) Salir
+[2025-11-05 18:03:25] || INFO || 1) Cargar CSV e imprimir 5 lineas (obligatorio hacer primero, para cargar datos)
+[2025-11-05 18:03:25] || INFO || 2) Rellenar columnas full_time 
+[2025-11-05 18:03:25] || INFO || 3) Asignar bonus adicional
+[2025-11-05 18:03:25] || INFO || 4) Calcular aumento de salario
+[2025-11-05 18:03:25] || INFO || 5) Crear clave compuesta
+[2025-11-05 18:03:25] || INFO || 6) Clasificación de la edad por rangos
+[2025-11-05 18:03:25] || INFO || 7) Diferencia entre la edad y la edad promedio
+[2025-11-05 18:03:25] || INFO || 8) Guardar todas las operaciones en un solo DataFrame
+[2025-11-05 18:03:25] || INFO || 9) Salir
+[2025-11-05 18:03:33] || INFO || 1) Cargar CSV e imprimir 5 lineas (obligatorio hacer primero, para cargar datos)
+[2025-11-05 18:03:33] || INFO || 2) Rellenar columnas full_time 
+[2025-11-05 18:03:33] || INFO || 3) Asignar bonus adicional
+[2025-11-05 18:03:33] || INFO || 4) Calcular aumento de salario
+[2025-11-05 18:03:33] || INFO || 5) Crear clave compuesta
+[2025-11-05 18:03:33] || INFO || 6) Clasificación de la edad por rangos
+[2025-11-05 18:03:33] || INFO || 7) Diferencia entre la edad y la edad promedio
+[2025-11-05 18:03:33] || INFO || 8) Guardar todas las operaciones en un solo DataFrame
+[2025-11-05 18:03:33] || INFO || 9) Salir
+[2025-11-05 18:03:51] || INFO || 1) Cargar CSV e imprimir 5 lineas (obligatorio hacer primero, para cargar datos)
+[2025-11-05 18:03:51] || INFO || 2) Rellenar columnas full_time 
+[2025-11-05 18:03:51] || INFO || 3) Asignar bonus adicional
+[2025-11-05 18:03:51] || INFO || 4) Calcular aumento de salario
+[2025-11-05 18:03:51] || INFO || 5) Crear clave compuesta
+[2025-11-05 18:03:51] || INFO || 6) Clasificación de la edad por rangos
+[2025-11-05 18:03:51] || INFO || 7) Diferencia entre la edad y la edad promedio
+[2025-11-05 18:03:51] || INFO || 8) Guardar todas las operaciones en un solo DataFrame
+[2025-11-05 18:03:51] || INFO || 9) Salir
+[2025-11-05 18:04:22] || INFO || 1) Cargar CSV e imprimir 5 lineas (obligatorio hacer primero, para cargar datos)
+[2025-11-05 18:04:22] || INFO || 2) Rellenar columnas full_time 
+[2025-11-05 18:04:22] || INFO || 3) Asignar bonus adicional
+[2025-11-05 18:04:22] || INFO || 4) Calcular aumento de salario
+[2025-11-05 18:04:22] || INFO || 5) Crear clave compuesta
+[2025-11-05 18:04:22] || INFO || 6) Clasificación de la edad por rangos
+[2025-11-05 18:04:22] || INFO || 7) Diferencia entre la edad y la edad promedio
+[2025-11-05 18:04:22] || INFO || 8) Guardar todas las operaciones en un solo DataFrame
+[2025-11-05 18:04:22] || INFO || 9) Salir
+[2025-11-05 18:04:34] || INFO || 1) Cargar CSV e imprimir 5 lineas (obligatorio hacer primero, para cargar datos)
+[2025-11-05 18:04:34] || INFO || 2) Rellenar columnas full_time 
+[2025-11-05 18:04:34] || INFO || 3) Asignar bonus adicional
+[2025-11-05 18:04:34] || INFO || 4) Calcular aumento de salario
+[2025-11-05 18:04:34] || INFO || 5) Crear clave compuesta
+[2025-11-05 18:04:34] || INFO || 6) Clasificación de la edad por rangos
+[2025-11-05 18:04:34] || INFO || 7) Diferencia entre la edad y la edad promedio
+[2025-11-05 18:04:34] || INFO || 8) Guardar todas las operaciones en un solo DataFrame
+[2025-11-05 18:04:34] || INFO || 9) Salir
